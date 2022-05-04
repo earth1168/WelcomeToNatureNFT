@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd1ba5b67e0c84aBD5c7c81C20EaA7290739fa350",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xd1ba5b67e0c84abd5c7c81c20eaa7290739fa350",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Nature",
+  "SYMBOL": "NTRE",
+  "MAX_SUPPLY": 5,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/nature-3t4edusi6v",
+  "SHOW_BACKGROUND": true
+}
